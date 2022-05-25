@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 0. Угадай число (https://github.com/Krivonosoviv/Data_science_iVk/tree/main/project0)
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
